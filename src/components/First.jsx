@@ -34,7 +34,7 @@
             
             </div>
             <div className=" order-1 w-full  md:w-1/2">
-            <img src="../public/herof.png" alt="" className="h-80.5 my-5 top-20" />
+            <img src="public/herof.png" alt="" className="h-80.5 my-5 top-20" />
              
              </div>
         </div>
